@@ -1,5 +1,3 @@
-# Clase en vídeo: https://youtu.be/TbcEqkabAWU?t=10172
-
 ### Higher Order Functions ###
 
 from functools import reduce
