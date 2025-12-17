@@ -1,5 +1,3 @@
-# Clase en vídeo: https://youtu.be/TbcEqkabAWU
-
 ### Dates ###
 
 # Date time
