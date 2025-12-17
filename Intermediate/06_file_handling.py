@@ -1,5 +1,3 @@
-# Clase en vídeo: https://youtu.be/TbcEqkabAWU?t=15524
-
 ### File Handling ###
 
 import xml
