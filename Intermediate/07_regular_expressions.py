@@ -1,5 +1,3 @@
-# Clase en vídeo: https://youtu.be/TbcEqkabAWU?t=19762
-
 ### Regular Expressions ###
 
 import re
