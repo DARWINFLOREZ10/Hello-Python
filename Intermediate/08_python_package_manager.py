@@ -1,5 +1,3 @@
-# Clase en vídeo: https://youtu.be/TbcEqkabAWU?t=24010
-
 ### Python Package Manager ###
 
 # PIP https://pypi.org
