@@ -1,5 +1,3 @@
-# Clase en vídeo: https://youtu.be/TbcEqkabAWU?t=12721
-
 ### Error Types ###
 
 # SyntaxError
