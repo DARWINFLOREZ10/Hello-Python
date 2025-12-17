@@ -1,5 +1,3 @@
-# Clase en vídeo: https://youtu.be/TbcEqkabAWU?t=4142
-
 ### Challenges ###
 
 """
