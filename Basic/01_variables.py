@@ -1,5 +1,3 @@
-# Clase en vídeo: https://youtu.be/Kp4Mvapo5kc?t=2938
-
 ### Variables ###
 
 my_string_variable = "My String variable"
