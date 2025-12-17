@@ -1,5 +1,3 @@
-# Clase en vídeo: https://youtu.be/TbcEqkabAWU?t=3239
-
 ### List Comprehension ###
 
 my_original_list = [0, 1, 2, 3, 4, 5, 6, 7]
